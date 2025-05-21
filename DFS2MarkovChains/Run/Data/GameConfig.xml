@@ -1,0 +1,15 @@
+<GameConfig
+    windowTitle="MarkovSystem"
+    windowAspect="2.0"
+    windowFullscreen="true"
+    windowSize="1400,700"
+    windowPosition="75,150"
+	
+	seedNumber="-1"
+	markovOrder="1"
+	responseLength="5"
+	memorySize="2"
+/>
+
+
+

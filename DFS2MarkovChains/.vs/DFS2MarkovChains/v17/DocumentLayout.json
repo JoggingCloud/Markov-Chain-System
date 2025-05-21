@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\p4\\Personal_Builds\\SD\\DFS2MarkovChains\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC8FE02-0387-4CC1-B342-08F1988141CD}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal_Builds\\SD\\DFS2MarkovChains\\Code\\Game\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EC8FE02-0387-4CC1-B342-08F1988141CD}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC8FE02-0387-4CC1-B342-08F1988141CD}|Code\\Game\\Game.vcxproj|D:\\p4\\Personal_Builds\\SD\\DFS2MarkovChains\\Code\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EC8FE02-0387-4CC1-B342-08F1988141CD}|Code\\Game\\Game.vcxproj|solutionrelative:Code\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B3D7C-E160-46CF-82A8-7F251DAF1D89}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\AI\\MarkovSystem.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B3D7C-E160-46CF-82A8-7F251DAF1D89}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\AI\\MarkovSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B3D7C-E160-46CF-82A8-7F251DAF1D89}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B3D7C-E160-46CF-82A8-7F251DAF1D89}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\DevConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B3D7C-E160-46CF-82A8-7F251DAF1D89}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\Time.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B3D7C-E160-46CF-82A8-7F251DAF1D89}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\AI\\Pathfinding\\NavMeshPathfinding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC8FE02-0387-4CC1-B342-08F1988141CD}|Code\\Game\\Game.vcxproj|D:\\P4\\PERSONAL_BUILDS\\SD\\ENGINE\\CODE\\ENGINE\\CORE\\EVENTSYSTEM.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B3D7C-E160-46CF-82A8-7F251DAF1D89}|..\\Engine\\Code\\Engine\\Engine.vcxproj|D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\EventSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarkovSystem.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\AI\\MarkovSystem.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\AI\\MarkovSystem.hpp",
+              "ToolTip": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\AI\\MarkovSystem.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\AI\\MarkovSystem.hpp [Read Only]",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-12T22:44:47.451Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMeshPathfinding.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\AI\\Pathfinding\\NavMeshPathfinding.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\AI\\Pathfinding\\NavMeshPathfinding.cpp",
+              "ToolTip": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\AI\\Pathfinding\\NavMeshPathfinding.cpp",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\AI\\Pathfinding\\NavMeshPathfinding.cpp",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAqwAMCAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T22:20:58.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DevConsole.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\DevConsole.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\DevConsole.cpp",
+              "ToolTip": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\DevConsole.cpp",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\DevConsole.cpp",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAqwL4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T22:20:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Time.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\Time.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\Time.hpp",
+              "ToolTip": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\Time.hpp",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\Time.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-12T22:17:53.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\Time.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\Time.cpp",
+              "ToolTip": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\Time.cpp",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\Time.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T22:17:46.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarkovSystem.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\AI\\MarkovSystem.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\AI\\MarkovSystem.cpp",
+              "ToolTip": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\AI\\MarkovSystem.cpp",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\AI\\MarkovSystem.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T22:16:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal_Builds\\SD\\DFS2MarkovChains\\Code\\Game\\Game.hpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Game.hpp",
+              "ToolTip": "D:\\p4\\Personal_Builds\\SD\\DFS2MarkovChains\\Code\\Game\\Game.hpp",
+              "RelativeToolTip": "Code\\Game\\Game.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-12T22:00:28.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal_Builds\\SD\\DFS2MarkovChains\\Code\\Game\\Game.cpp",
+              "RelativeDocumentMoniker": "Code\\Game\\Game.cpp",
+              "ToolTip": "D:\\p4\\Personal_Builds\\SD\\DFS2MarkovChains\\Code\\Game\\Game.cpp",
+              "RelativeToolTip": "Code\\Game\\Game.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T22:00:20.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventSystem.cpp",
+              "DocumentMoniker": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\EventSystem.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\EventSystem.cpp",
+              "ToolTip": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\EventSystem.cpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\EventSystem.cpp [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T21:57:23.037Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventSystem.hpp",
+              "DocumentMoniker": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\EventSystem.hpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Code\\Engine\\Core\\EventSystem.hpp",
+              "ToolTip": "D:\\p4\\Personal_Builds\\SD\\Engine\\Code\\Engine\\Core\\EventSystem.hpp [Read Only]",
+              "RelativeToolTip": "..\\Engine\\Code\\Engine\\Core\\EventSystem.hpp [Read Only]",
+              "ViewState": "AgIAAFcAAAAAAAAAAAASwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-12T21:56:53.99Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
