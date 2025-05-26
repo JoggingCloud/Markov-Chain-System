@@ -19,6 +19,7 @@ The Keyboard Controls:
 How To Run Application
 ---------------------------------------------------------------------------------------------
 Before anything you must have the Navisyn-Engine already downloaded as this won't run without it. It must also be in the same file path as this project.
+
 Method A:
 1.	Extract the zip folder to your desired location
 2.	Open the following path --> …\DFS2MarkovChains\Run
