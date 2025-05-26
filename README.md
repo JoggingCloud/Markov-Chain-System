@@ -27,10 +27,10 @@ Method A:
    
 Method B:
 1.	Extract the zip folder to you desired location.
-2.	Open the following path --> …\Protogame3D
+2.	Open the following path --> …\DFS2MarkovChains
 3.	Open the DFS2MarkovChains.sln using Visual Studio 2022 and make sure the solution config and platforms are "Release" and "x64".
 4.	Press F6 key to build solution or go to Build --> Build Solution option using the Menu bar.
 5.	Press Ctrl + F5 key to start the program without debugging or go to Debug --> Start without Debugging option using the Menu bar.
   NOTE:	
 	  * Visual Studio 2022 must be installed on the system.
-	  * In step 5 mentioned above, if you want you can execute the program with      the debugger too.
+	  * In step 5 mentioned above, if you want you can execute the program with the debugger too.
