@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/9aaa5f4e-50ad-434e-856a-8cec69eb25e8)
-
+About
+---------------------------------------------------------------------------------------------
 My Markov system is a custom-built text generation tool I created to simulate conversational dialogue using probabilistic modeling. It reads in a dataset, breaks down the structure of sentences, and builds a transition matrix that learns how words follow each other. Depending on the order you choose, it can generate coherent responses by chaining words based on learned probabilities, moving either forward or backward. I built it to support different topics, store entire conversations, and allow users to resume sessions later, so it’s more than just a sentence generator; it remembers context. Everything runs through my in-game dev console, where I can test responses, tweak generation settings, and even control how immersive or memory-driven each conversation is.
 
 How To Use
